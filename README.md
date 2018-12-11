@@ -1,3 +1,4 @@
+[![Build Status - Cirrus](https://api.cirrus-ci.com/dbaio/zanata/zanata.svg)](https://cirrus-ci.com/github/dbaio/zanata/master)
 
 # For Translators
 
