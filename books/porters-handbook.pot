@@ -1,4 +1,5 @@
 #$FreeBSD$
+# just a message
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
