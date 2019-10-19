@@ -1,14 +1,15 @@
 # $FreeBSD$
-# Danilo G. Baio <dbaio@FreeBSD.org>, 2018. #zanata
-# Edson Brandi <ebrandi@FreeBSD.org>, 2018. #zanata
+# $FreeBSD: head/pt_BR.ISO8859-1/articles/geom-class/pt_BR.po 52268 2018-09-16 19:52:43Z ebrandi $
+# Danilo G. Baio <dbaio@FreeBSD.org>, 2019. #zanata
+# Edson Brandi <ebrandi@FreeBSD.org>, 2019. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-12-08 14:45-0200\n"
+"POT-Creation-Date: 2019-06-15 11:35-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-09-16 07:26+0000\n"
+"PO-Revision-Date: 2019-06-15 06:31+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -83,7 +84,9 @@ msgstr ""
 msgid ""
 "$FreeBSD: head/en_US.ISO8859-1/articles/geom-class/article.xml 48489 2016-03-"
 "28 17:30:19Z jgh $"
-msgstr "$FreeBSD$"
+msgstr ""
+"$FreeBSD: head/pt_BR.ISO8859-1/articles/geom-class/pt_BR.po 52268 2018-09-16 "
+"19:52:43Z ebrandi $"
 
 #. (itstool) path: abstract/para
 #: article.translate.xml:41
@@ -432,7 +435,7 @@ msgstr ""
 "ser pelo menos tão grande quanto a RAM física na máquina. Na próxima "
 "inicialização, o despejo é copiado para um arquivo normal. Isso acontece "
 "depois que os sistemas de arquivos são verificados e montados e antes que o "
-"swap seja ativado. Isto é controlado com duas variáveis ​​<filename>/etc/rc."
+"swap seja ativado. Isto é controlado com duas variáveis <filename>/etc/rc."
 "conf</filename>:"
 
 #. (itstool) path: sect2/programlisting
@@ -745,9 +748,9 @@ msgstr ""
 "usado no userland (pelo menos leva um tempo para se acostumar com isso). Em "
 "alguns casos, as rotinas auxiliares <function>g_write_data</function>() e "
 "<function>g_read_data</function>() podem ser usadas, mas <emphasis>nem "
-"sempre</emphasis>. Em particular, elas não podem ser usadas ​​quando um "
-"mutex é mantido; por exemplo, o mutex de topologia GEOM ou o mutex interno "
-"mantido durante as funções <function>.start</function>() e <function>.stop</"
+"sempre</emphasis>. Em particular, elas não podem ser usadas quando um mutex "
+"é mantido; por exemplo, o mutex de topologia GEOM ou o mutex interno mantido "
+"durante as funções <function>.start</function>() e <function>.stop</"
 "function>()."
 
 #. (itstool) path: sect1/title
@@ -1365,7 +1368,7 @@ msgid ""
 msgstr ""
 "Veja a página de manual para o <citerefentry><refentrytitle>g_bio</"
 "refentrytitle><manvolnum>9</manvolnum></citerefentry> para obter informações "
-"sobre como os dados são passados ​​para frente e para trás na estrutura "
+"sobre como os dados são passados para frente e para trás na estrutura "
 "<varname remap=\"structname\">bio</varname> (observe em particular os campos "
 "<varname>bio_parent</varname> e <varname>bio_children</varname> e como eles "
 "são manipulados)."

@@ -1,15 +1,16 @@
 # $FreeBSD$
-# Danilo G. Baio <dbaio@FreeBSD.org>, 2018. #zanata
-# Edson Brandi <ebrandi@FreeBSD.org>, 2018. #zanata
+# $FreeBSD: head/pt_BR.ISO8859-1/articles/contributing/pt_BR.po 52663 2018-12-11 18:33:15Z ebrandi $
+# Danilo G. Baio <dbaio@FreeBSD.org>, 2019. #zanata
+# Edson Brandi <ebrandi@FreeBSD.org>, 2019. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-12-08 14:45-0200\n"
+"POT-Creation-Date: 2019-06-15 11:35-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-12-11 05:17+0000\n"
-"Last-Translator: Lucas Andrade <lucassandrade98@gmail.com>\n"
+"PO-Revision-Date: 2019-06-19 01:48+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Portuguese (Brazil)\n"
 "Language: pt_BR\n"
 "X-Generator: Zanata 4.6.2\n"
@@ -96,11 +97,11 @@ msgstr ""
 #. (itstool) path: info/releaseinfo
 #: article.translate.xml:33 article.translate.xml:35
 msgid ""
-"$FreeBSD: head/en_US.ISO8859-1/articles/contributing/article.xml 52228 2018-"
-"09-06 01:39:04Z ebrandi $"
+"$FreeBSD: head/en_US.ISO8859-1/articles/contributing/article.xml 52764 2019-"
+"01-13 11:00:21Z bcr $"
 msgstr ""
-"$FreeBSD: head/en_US.ISO8859-1/articles/contributing/article.xml 52228 2018-"
-"09-06 01:39:04Z ebrandi $"
+"$FreeBSD: head/en_US.ISO8859-1/articles/contributing/article.xml 52764 2019-"
+"01-13 11:00:21Z bcr $"
 
 #. (itstool) path: article/indexterm
 #: article.translate.xml:38
@@ -662,7 +663,7 @@ msgid ""
 "\"@@URL_RELPREFIX@@/doc/en_US.ISO8859-1/books/fdp-primer/index."
 "html\">FreeBSD Documentation Project Primer</link> for complete instructions."
 " Send submissions and changes (even small ones are welcome!) using the same "
-"method any other bug report."
+"method as any other bug report."
 msgstr ""
 "Mudanças na documentação são supervisionadas pela <link xlink:href=\"http://"
 "lists.FreeBSD.org/mailman/listinfo/freebsd-doc\">lista de documentação do "

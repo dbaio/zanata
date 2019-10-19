@@ -1,16 +1,16 @@
 # $FreeBSD$
-# Danilo G. Baio <dbaio@FreeBSD.org>, 2018. #zanata
-# Edson Brandi <ebrandi@FreeBSD.org>, 2018. #zanata
-# Silvio Ap Silva <contato@kanazuchi.com>, 2018. #zanata
+# $FreeBSD: head/pt_BR.ISO8859-1/articles/releng/pt_BR.po 52283 2018-09-21 03:22:51Z ebrandi $
+# Danilo G. Baio <dbaio@FreeBSD.org>, 2019. #zanata
+# Edson Brandi <ebrandi@FreeBSD.org>, 2019. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-12-08 14:45-0200\n"
+"POT-Creation-Date: 2019-06-15 11:35-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-09-21 02:48+0000\n"
-"Last-Translator: Wendell Borges <perlporter@gmail.com>\n"
+"PO-Revision-Date: 2019-06-15 06:32+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "X-Generator: Zanata 4.6.2\n"
@@ -113,7 +113,9 @@ msgstr ""
 msgid ""
 "$FreeBSD: head/en_US.ISO8859-1/articles/releng/article.xml 51824 2018-06-12 "
 "18:54:46Z bcr $"
-msgstr "$FreeBSD$"
+msgstr ""
+"$FreeBSD: head/pt_BR.ISO8859-1/articles/releng/pt_BR.po 52283 2018-09-21 03:"
+"22:51Z ebrandi $"
 
 #. (itstool) path: note/para
 #: article.translate.xml:55
@@ -128,8 +130,8 @@ msgstr ""
 "Este documento está desatualizado e não descreve com precisão os "
 "procedimentos atuais de lançamentos da equipe de Engenharia de Release "
 "(Versão) do FreeBSD. É retido para fins históricos. Os procedimentos atuais "
-"usados ​​pela equipe de Engenharia de Release do FreeBSD estão disponíveis "
-"no artigo <link xlink:href=\"@@URL_RELPREFIX@@/doc/en_US.ISO8859-1/articles/"
+"usados pela equipe de Engenharia de Release do FreeBSD estão disponíveis no "
+"artigo <link xlink:href=\"@@URL_RELPREFIX@@/doc/en_US.ISO8859-1/articles/"
 "freebsd-releng/article.html\">Engenharia de Release do FreeBSD</link>."
 
 #. (itstool) path: abstract/para
@@ -145,7 +147,7 @@ msgstr ""
 "do FreeBSD para produzir versões  do Sistema Operacional FreeBSD com "
 "qualidade de produção. Ele detalha a metodologia utilizada para as versões "
 "oficiais do FreeBSD e descreve as ferramentas disponíveis para aqueles "
-"interessados ​​em produzir versões customizadas do FreeBSD para uso "
+"interessados em produzir versões customizadas do FreeBSD para uso "
 "corporativo ou para uso em produtos comerciais."
 
 #. (itstool) path: sect1/title
@@ -253,7 +255,7 @@ msgid ""
 "different pace, and with the general assumption that they have first gone "
 "into FreeBSD-CURRENT and have been thoroughly tested by our user community."
 msgstr ""
-"Um conjunto de branches mais estáveis ​​é mantido, e é conhecido como "
+"Um conjunto de branches mais estáveis é mantido, e é conhecido como "
 "<quote>FreeBSD-STABLE</quote> ou <quote>-STABLE</quote> na forma abreviada. "
 "Todas as branchs ficam em um repositório principal do Subversion mantido "
 "pelo Projeto FreeBSD. O FreeBSD-CURRENT é a <quote>vanguarda do "
@@ -1071,7 +1073,7 @@ msgid ""
 "The Documentation and Ports managers are responsible for tagging their "
 "respective trees with the <literal>tags/RELEASE_9_2_0</literal> tag."
 msgstr ""
-"Os gerentes de Documentação e do Ports são responsáveis ​​por marcar suas "
+"Os gerentes de Documentação e do Ports são responsáveis por marcar suas "
 "respectivas árvores com a tag <literal>tags/RELEASE_9_2_0</literal>."
 
 #. (itstool) path: sidebar/para
@@ -1821,7 +1823,7 @@ msgstr ""
 "tarefas é muito intensiva em I/O, portanto, ter várias unidades de disco de "
 "alta velocidade é realmente mais importante do que usar vários processadores "
 "para acelerar o processo do <command>make release</command>. Se vários "
-"discos forem usados ​​para hierarquias diferentes no ambiente "
+"discos forem usados para hierarquias diferentes no ambiente "
 "<citerefentry><refentrytitle>chroot</refentrytitle><manvolnum>2</manvolnum></"
 "citerefentry>, o CVS checkout das árvores do <filename>ports</filename> e do "
 "<filename>doc</filename> podem estar acontecendo simultaneamente como o "

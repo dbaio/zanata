@@ -1,14 +1,15 @@
 # $FreeBSD$
-# Danilo G. Baio <dbaio@FreeBSD.org>, 2018. #zanata
-# Edson Brandi <ebrandi@FreeBSD.org>, 2018. #zanata
+# $FreeBSD: head/pt_BR.ISO8859-1/articles/linux-users/pt_BR.po 52220 2018-09-06 00:43:08Z ebrandi $
+# Danilo G. Baio <dbaio@FreeBSD.org>, 2019. #zanata
+# Edson Brandi <ebrandi@FreeBSD.org>, 2019. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-12-08 14:45-0200\n"
+"POT-Creation-Date: 2019-06-15 11:35-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-12-08 06:02+0000\n"
+"PO-Revision-Date: 2019-06-19 01:48+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Portuguese (Brazil)\n"
 "Language: pt_BR\n"
@@ -49,11 +50,12 @@ msgstr "<year>2008</year> <holder>Projeto de Documentação do FreeBSD</holder>"
 #. (itstool) path: info/pubdate
 #. (itstool) path: info/releaseinfo
 #: article.translate.xml:15 article.translate.xml:17
-#, fuzzy
 msgid ""
 "$FreeBSD: head/en_US.ISO8859-1/articles/linux-users/article.xml 52142 2018-"
 "08-16 16:43:18Z bcr $"
-msgstr "$FreeBSD$"
+msgstr ""
+"$FreeBSD: head/en_US.ISO8859-1/articles/linux-users/article.xml 52142 2018-"
+"08-16 16:43:18Z bcr $"
 
 #. (itstool) path: legalnotice/para
 #: article.translate.xml:20
@@ -952,7 +954,7 @@ msgstr ""
 #. (itstool) path: sect1/title
 #: article.translate.xml:396
 msgid "procfs: Gone But Not Forgotten"
-msgstr "procfs: É passado, mas não foi esquecido"
+msgstr "procfs: É passado, mas foi não esquecido"
 
 #. (itstool) path: sect1/para
 #: article.translate.xml:398
@@ -1192,7 +1194,7 @@ msgid ""
 "html\">FreeBSD Handbook</link> for more in-depth coverage of these topics as "
 "well as the many topics not covered by this document."
 msgstr ""
-"Este documento forneceu uma visão geral do FreeBSD. Veja o <link xlink:href="
+"EEste documento forneceu uma visão geral do FreeBSD. Veja o <link xlink:href="
 "\"@@URL_RELPREFIX@@/doc/en_US.ISO8859-1/books/handbook/index.html\">Handbook "
 "do FreeBSD</link> para uma cobertura mais profunda desses tópicos, assim "
 "como outros não cobertos por este documento."

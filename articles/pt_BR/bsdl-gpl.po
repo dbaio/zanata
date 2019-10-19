@@ -1,15 +1,16 @@
 # $FreeBSD$
-# Danilo G. Baio <dbaio@FreeBSD.org>, 2018. #zanata
-# Edson Brandi <ebrandi@FreeBSD.org>, 2018. #zanata
+# $FreeBSD: head/pt_BR.ISO8859-1/articles/bsdl-gpl/pt_BR.po 52260 2018-09-15 17:33:40Z ebrandi $
+# Danilo G. Baio <dbaio@FreeBSD.org>, 2019. #zanata
+# Edson Brandi <ebrandi@FreeBSD.org>, 2019. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-12-08 14:45-0200\n"
+"POT-Creation-Date: 2019-06-15 11:35-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-09-15 05:02+0000\n"
-"Last-Translator: Danilo G. Baio <dbaio@FreeBSD.org>\n"
+"PO-Revision-Date: 2019-06-15 06:31+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "X-Generator: Zanata 4.6.2\n"
@@ -83,7 +84,9 @@ msgstr ""
 msgid ""
 "$FreeBSD: head/en_US.ISO8859-1/articles/bsdl-gpl/article.xml 43184 2013-11-"
 "13 07:52:45Z hrs $"
-msgstr "$FreeBSD$"
+msgstr ""
+"$FreeBSD: head/pt_BR.ISO8859-1/articles/bsdl-gpl/pt_BR.po 52260 2018-09-15 "
+"17:33:40Z ebrandi $"
 
 #. (itstool) path: sect1/title
 #: article.translate.xml:35
@@ -485,7 +488,7 @@ msgid ""
 msgstr ""
 "como o kernel do Linux está sob a GPL, qualquer código estaticamente linkado "
 "ao kernel do Linux deve ser GPL. Este requisito pode ser contornado ao "
-"linkar dinamicamente módulos carregáveis ​​do kernel. Isso permite que as "
+"linkar dinamicamente módulos carregáveis do kernel. Isso permite que as "
 "empresas distribuam drivers binários, mas geralmente tem a desvantagem de "
 "que eles só funcionarão para versões específicas do kernel do Linux."
 
@@ -1085,7 +1088,7 @@ msgid ""
 "advantage to maintain the minimal legal and organization overheads "
 "associated with a true BSD-style Open Source project."
 msgstr ""
-"Pequenas empresas com projetos de software vulneráveis ​​ao software órfão, "
+"Pequenas empresas com projetos de software vulneráveis ao software órfão, "
 "devem tentar usar a licença BSD sempre que possível. Empresas de todos os "
 "portes devem considerar a formação de tais projetos Open Source quando for "
 "vantajoso manter mínimas as despesas legais e organizacionais associadas a "

@@ -1,3 +1,4 @@
+[![Build Status - Cirrus](https://api.cirrus-ci.com/github/doc-br/zanata.svg)](https://cirrus-ci.com/github/doc-br/zanata/master)
 
 # Lista de Artigos e Livros para Tradução
 
@@ -12,25 +13,25 @@
 - [x] explaining-bsd
 - [x] filtering-bridge
 - [x] fonts
-- [ ] freebsd-questions
-- [ ] freebsd-releng
+- [x] freebsd-questions
+- [x] freebsd-releng
 - [x] freebsd-update-server
-- [x] geom-class 
+- [x] geom-class
 - [x] gjournal-desktop
-- [ ] hubs
-- [ ] ipsec-must
-- [x] ldap-auth 
+- [x] hubs
+- [x] ipsec-must
+- [x] ldap-auth
 - [x] leap-seconds
 - [x] linux-emulation
-- [ ] linux-users
-- [x] mailing-list-faq 
+- [x] linux-users
+- [x] mailing-list-faq
 - [x] nanobsd
-- [ ] new-users
-- [ ] pam
-- [x] pgpkeys 
+- [x] new-users
+- [x] pam
+- [x] pgpkeys
 - [x] port-mentor-guidelines
 - [x] pr-guidelines
-- [ ] problem-reports
+- [x] problem-reports
 - [x] rc-scripting
 - [x] releng
 - [x] remote-install
@@ -49,6 +50,8 @@
 - [x] fdp-primer
 - [ ] handbook
 - [ ] pmake
+- [ ] handbook - [Página de status das traduções e revisão](https://github.com/doc-br/zanata/blob/master/README-pt_BR-handbook.md)
+- [ ] ~~pmake~~ - Removido do índice de livros do FreeBSD em [r52714](https://svnweb.freebsd.org/doc/head/en_US.ISO8859-1/books/Makefile?revision=52714&view=markup).
 - [x] porters-handbook
 
 Se for traduzir por outro aplicativo que não seja o Zanata, utilize sempre os
